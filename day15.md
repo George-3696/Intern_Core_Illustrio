@@ -1,0 +1,5 @@
+# Day 15
+
+I took a leave yesterday so its actually the day 16 for me,so what i learnt was about abstraction and data structure, i used to do this from time to time without understanding what it actually is and now i know what it is and hohw to actually use this to be a better engineer, in 1st year i used to do this in my head when i see a enginnering graphics problem i draw it in my mind before drawing on the paper so from what i learnt abstraction is the same thing, to think that engineers can even predict what the object will be even before it comes to physical life is amazing to digest.
+
+And next is about **Data Structure** which is the number of data that is available at the object lets say that data is useful for the object to function without the data the object will not be able to function at its finest, So we are told to take the lift as an example an we are asked to find out the aabstraction and data structure for the lift, the working of the elevator was the abstraction and the data that are available for the elevator was the buttons, lights, ventilation etc 
