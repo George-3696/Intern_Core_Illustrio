@@ -1,0 +1,5 @@
+# Day 19
+
+This day we learned about how the programming language works and both the concept and necessity of the programming language and then we are taught to create our own programming language and what are core steps to be taken to make a language im really excited my own programming language as i can show off among my friends, the important part of making is that the computer should understand what we have are trying to say to the computer, for a human mind to understand we need to disect the a full scentence and we should know the meaning of each word,
+
+so the programming language we are creating should have the same spaces colans and other special characters in our language to understand better,these words and other characters we are adding to the computer should have a meaning for that we have to assign the words that we are going to use to a particular meaning so that when we create a whole scentence out of it the coomputer should generate a code which will give the desired output we need. 
